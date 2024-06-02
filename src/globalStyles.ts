@@ -55,6 +55,8 @@ const GlobalStyle = createGlobalStyle`
     background: #1E1E1E;
     color: white;
   }
+
+  p { margin: 0 0 2rem 0;}
 `;
  
 export default GlobalStyle;
